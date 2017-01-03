@@ -1,0 +1,11 @@
+{
+	"products": [
+		{"id" : 0,
+		"category" : "personal" },
+		{"id" : 1,
+		"category" : "professional" },
+		{"id" : 2,
+		"category" : "completely unnecessary"
+		}
+	]
+}

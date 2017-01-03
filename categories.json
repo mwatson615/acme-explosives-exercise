@@ -1,0 +1,11 @@
+{
+	"categories": [
+		{"id" : 0,
+		"category" : "Fireworks" },
+		{"id" : 1,
+		"category" : "Digit Removal" },
+		{"id" : 2,
+		"category" : "don't tell the ATF"
+		}
+	]
+}

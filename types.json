@@ -1,0 +1,11 @@
+{
+	"types": [
+		{"id" : 0,
+		"category" : "fireball" },
+		{"id" : 1,
+		"category" : "smoker" },
+		{"id" : 2,
+		"category" : "earth scorcher"
+		}
+	]
+}
