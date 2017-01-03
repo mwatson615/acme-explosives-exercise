@@ -1,11 +1,23 @@
 {
-	"products": [
-		{"id" : 0,
-		"category" : "personal" },
-		{"id" : 1,
-		"category" : "professional" },
-		{"id" : 2,
-		"category" : "completely unnecessary"
-		}
-	]
+	"products": [{
+		"magic_sparklers" : {
+		"id" : 0,
+		"type" : 0,
+		"name" : "Magic Sparklers",
+		"description" : "Fireworks that won't get you on a terrorist watch list"
+		},
+
+		"earth_scorchers" : {
+		"id" : 1,
+		"type" : 1,
+		"name" : "Earth Scorchers",
+		"description" : "Fireworks that might get you on a terrorist watch list"
+	},
+		"fireballs" : {
+		"id" : 2,
+		"type" : 2,
+		"name" : "Fireballs",
+		"description" : "Creates a large ball of fire, can be used to light small solar systems"
+	}
+	}]
 }

@@ -1,11 +1,22 @@
 {
 	"types": [
-		{"id" : 0,
-		"category" : "fireball" },
-		{"id" : 1,
-		"category" : "smoker" },
-		{"id" : 2,
-		"category" : "earth scorcher"
+		{
+		"id" : 0,
+		"category" : 0,
+		"name" : "personal",
+		"description" : "Fireworks intended for recreational use"
+		},
+		{
+		"id" : 1,
+		"category" : 1,
+		"name" : "professional",
+		"description" : "Fireworks intended for professional use"
+		},
+		{
+		"id" : 2,
+		"category" : 2,
+		"name" : "militant",
+		"description" : "Fireworks intended for armed rebellions"
 		}
 	]
 }
